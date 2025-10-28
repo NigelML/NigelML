@@ -2,7 +2,7 @@
 
 <h2 align="left">Where to find me</h2>
 
-<div align="center">
+<div align="lefight">
   <a href="https://www.linkedin.com/in/nigel-ml/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"height="40" />
   </a>  
