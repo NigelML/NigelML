@@ -42,10 +42,7 @@
 
 <h2 align="left">My Statistics</h2>
 
-<div align="center">   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NigelML&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=15&theme=highcontrast&hide_border=false&order=2" align="center" height=200 alt="languages graph"  /> </br>
-  <img src="https://github-readme-stats.vercel.app/api?username=NigelML&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&order=1" height=150 alt="stats graph"  />    
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=NigelML&theme=highcontrast" alt="GitHub Streak"height=150 /></a>
+<div align="center">    
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NigelML&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
