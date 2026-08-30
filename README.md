@@ -1,4 +1,4 @@
-<h2 align="center">Hello! Welcome to my little world. 👊🏽 </h2>
+<h2 align="center">Hello! Welcome to my little world. </h2>
 
 <h2 align="left">Where to find me</h2>
 
